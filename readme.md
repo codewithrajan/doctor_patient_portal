@@ -45,5 +45,4 @@
  password: 123456***
 
 **Contributors :**
-
-@AnupamAyank (For functionality testing ).
+@Rajan Kumar rajanranjan06254@gmail.com
